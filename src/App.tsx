@@ -13,10 +13,10 @@ function App() {
 
   useEffect(() => {
     dispatch(getTC())
-  }, [])
+  }, )
 
-  let resultItems = items.map(i => {
-    return(<Item item={i}/>)
+  let resultItems = items.map((i, index) => {
+    return(<Item key={index} item={i}/>)
   })
 
   return (
