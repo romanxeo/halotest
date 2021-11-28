@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/halotest/static/css/main.30de55a9.chunk.css",
+    "main.js": "/halotest/static/js/main.5420bd82.chunk.js",
+    "main.js.map": "/halotest/static/js/main.5420bd82.chunk.js.map",
+    "runtime-main.js": "/halotest/static/js/runtime-main.84d93242.js",
+    "runtime-main.js.map": "/halotest/static/js/runtime-main.84d93242.js.map",
+    "static/js/2.04c6fc25.chunk.js": "/halotest/static/js/2.04c6fc25.chunk.js",
+    "static/js/2.04c6fc25.chunk.js.map": "/halotest/static/js/2.04c6fc25.chunk.js.map",
+    "static/js/3.b39feac3.chunk.js": "/halotest/static/js/3.b39feac3.chunk.js",
+    "static/js/3.b39feac3.chunk.js.map": "/halotest/static/js/3.b39feac3.chunk.js.map",
+    "index.html": "/halotest/index.html",
+    "static/css/main.30de55a9.chunk.css.map": "/halotest/static/css/main.30de55a9.chunk.css.map",
+    "static/js/2.04c6fc25.chunk.js.LICENSE.txt": "/halotest/static/js/2.04c6fc25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84d93242.js",
+    "static/js/2.04c6fc25.chunk.js",
+    "static/css/main.30de55a9.chunk.css",
+    "static/js/main.5420bd82.chunk.js"
+  ]
+}
